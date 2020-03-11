@@ -1,0 +1,15 @@
+{
+  "name": "game-library-server",
+  "version": "1.0.0",
+  "description": "API for the game library",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Couto710/game-library/server.git"
+  },
+  "author": "",
+  "license": "ISC"
+}
